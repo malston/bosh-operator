@@ -17,7 +17,8 @@ The plugin provides workflow-based skills that guide operators through common BO
 
 ```
 bosh-operator/
-├── package.json
+├── .claude-plugin/
+│   └── plugin.json
 ├── skills/
 │   ├── setup-bosh-mcp.md
 │   ├── troubleshoot-vm.md
