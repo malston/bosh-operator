@@ -1,0 +1,9 @@
+{
+  "name": "bosh-operator",
+  "version": "0.1.0",
+  "description": "Conversational BOSH operations assistant. Provides workflow-based skills for troubleshooting VMs, restarting deployments, health checks, scaling guidance, and task investigation. Integrates with bosh-mcp-server for BOSH Director connectivity.",
+  "author": {
+    "name": "Mark Alston",
+    "email": "malston@users.noreply.github.com"
+  }
+}
